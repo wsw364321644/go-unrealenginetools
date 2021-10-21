@@ -1,5 +1,0 @@
-package unrealenginetools
-
-func test() {
-
-}
