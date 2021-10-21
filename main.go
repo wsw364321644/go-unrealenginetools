@@ -1,11 +1,5 @@
-package main
+package unrealenginetools
 
-import (
-
-)
-
-
-
-func main() {
+func test() {
 
 }
